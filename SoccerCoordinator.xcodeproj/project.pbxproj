@@ -15,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		04CC522C1D12983900A962F4 /* SoccerCoordinator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SoccerCoordinator.playground; sourceTree = "<group>"; };
 		2D3FC0421D0EB2DC00A9949F /* SoccerCoordinator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SoccerCoordinator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D3FC0451D0EB2DC00A9949F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2D3FC0471D0EB2DC00A9949F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,6 +55,7 @@
 		2D3FC0441D0EB2DC00A9949F /* SoccerCoordinator */ = {
 			isa = PBXGroup;
 			children = (
+				04CC522C1D12983900A962F4 /* SoccerCoordinator.playground */,
 				2D3FC0451D0EB2DC00A9949F /* AppDelegate.swift */,
 				2D3FC0471D0EB2DC00A9949F /* ViewController.swift */,
 				2D3FC0491D0EB2DC00A9949F /* Main.storyboard */,
@@ -288,6 +290,7 @@
 				2D3FC0561D0EB2DC00A9949F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
